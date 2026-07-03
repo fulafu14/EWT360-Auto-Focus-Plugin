@@ -8,4 +8,7 @@
 3.启用左下角的开发人员模式  
 4.在开发人员选项中选择加载解压缩的扩展  
 5.选择EWT360-AutoFocus文件夹（如图所示），打开  
-<img width="940" height="521" alt="image" src="https://github.com/user-attachments/assets/8089ba9f-3d6f-4369-a440-6307d7e02141" />
+<img width="940" height="521" alt="image" src="https://github.com/user-attachments/assets/8089ba9f-3d6f-4369-a440-6307d7e02141" />  
+6.点击右上角的扩展选项（图标像一个拼图，如图所示）<img width="33" height="39" alt="image" src="https://github.com/user-attachments/assets/f0e3769c-93f7-4d5e-90ec-8c3a910eaa62" />  
+7.点击插件，在弹出的框中启动插件（如图所示）<img width="261" height="376" alt="image" src="https://github.com/user-attachments/assets/6297ba9b-8c69-4e46-878a-540590af035b" />
+
